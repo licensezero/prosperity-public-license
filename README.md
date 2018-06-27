@@ -1,6 +1,6 @@
 # The Prosperity Public License
 
-Prosperity is a public `LICENSE` for open software that requires users who user your software for commercial purposes to limit their use to a period of days.  In other words, Prosperity works for software similar to how [Creative Commons' Attribution-NonCommercial License](https://creativecommons.org/licenses/by-nc/4.0/) works for other creative work.
+Prosperity is a public `LICENSE` for open software that requires users who user your software for commercial purposes to limit their use to a period of days.  In other words, Prosperity works for software similar to how [Creative Commons' Attribution-NonCommercial License](https://creativecommons.org/licenses/by-nc/4.0/) works for other creative work.  Software under Prosperity is free for noncommercial use, but offers an free, automatic, honor-system trial for commercial users.
 
 ## Why?
 
