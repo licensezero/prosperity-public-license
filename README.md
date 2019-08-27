@@ -1,6 +1,6 @@
 # The Prosperity Public License
 
-Prosperity is a public `LICENSE` for open software that requires users who user your software for commercial purposes to limit their use to a period of days.  In other words, Prosperity works for software similar to how [Creative Commons' Attribution-NonCommercial License](https://creativecommons.org/licenses/by-nc/4.0/) works for other creative work.  Software under Prosperity is free for noncommercial use, and offers a free, automatic, honor-system trial to commercial users.
+Prosperity is a public `LICENSE` for open software that requires users who use your software for commercial purposes to limit their use to a period of days.  In other words, Prosperity works for software similar to how [Creative Commons' Attribution-NonCommercial License](https://creativecommons.org/licenses/by-nc/4.0/) works for other creative work.  Software under Prosperity is free for noncommercial use, and offers a free, automatic, honor-system trial to commercial users.
 
 Prosperity is a [flipped form](https://flippedform.com) in everyday English.  If something doesn't make sense, that's Prosperity's fault, not yours.  Please [open an issue on GitHub](https://github.com/licensezero/parity-public-license/issues/new) so we can fix it.
 
