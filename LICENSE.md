@@ -28,7 +28,7 @@ Personal use for research, experiment, and testing for the benefit of public kno
 
 Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution does not count as use for a noncommercial purpose regardless of the source of funding or obligations resulting from the funding.
 
-## Contribution
+## Contributions Back
 
 You don't have to limit your use of this software for developing feedback, changes, or additions that you contribute back to the contributor.
 
