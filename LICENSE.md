@@ -6,7 +6,7 @@ Source Code: address
 
 ## Purpose
 
-This license allows you use and share this software for free, with a trial-length time limit on commercial use.
+This license allows you to use and share this software for noncommercial purposes for free, and to try this software for commercial purposes for 32 days.
 
 ## Agreement
 
