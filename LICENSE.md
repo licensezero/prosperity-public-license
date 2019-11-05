@@ -2,7 +2,7 @@
 
 Contributor: $name
 
-Source Code: address
+Source Code: $address
 
 ## Purpose
 
