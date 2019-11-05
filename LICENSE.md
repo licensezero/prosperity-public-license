@@ -30,7 +30,7 @@ Use by any charitable organization, educational institution, public research org
 
 ## Contribution
 
-You need not limit your use of this software for developing feedback, changes, or additions that you contribute back to the contributor.
+You don't have to limit your use of this software for developing feedback, changes, or additions that you contribute back to the contributor.
 
 ## Excuse
 
