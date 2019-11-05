@@ -1,39 +1,49 @@
-The Prosperity Public License Development Draft
+# The Prosperity Public License Development Draft
 
-Contributor: {{{name}}}
+Contributor: $name
 
-Source Code: {{{source}}}
+Source Code: address
 
-This license lets you use and share this software for free,
-with a trial-length time limit on commercial use. Specifically:
+## Purpose
 
-If you follow the rules below, you may do everything with this
-software that would otherwise infringe either the contributor's
-copyright in it, any patent claim the contributor can license
-that covers this software as of the contributor's latest
-contribution, or both.
+This license allows you use and share this software for free, with a trial-length time limit on commercial use.
 
-1. You must limit use of this software in any manner primarily
-   intended for or directed toward commercial advantage or
-   private monetary compensation to a trial period of {{{gracePeriod}}}
-   consecutive calendar days. This limit does not apply to use in
-   developing feedback, modifications, or extensions that you
-   contribute back to those giving this license.
+## Agreement
 
-2. Ensure everyone who gets a copy of this software from you, in
-   source code or any other form, gets the text of this license
-   and the contributor and source code lines above.
+In order to receive this license, you have to agree to its rules.  Those rules are both obligations under that agreement and conditions to your license.  Don't do anything with this software that triggers a rule you can't or won't follow.
 
-3. Do not make any legal claim against anyone for infringing any
-   patent claim they would infringe by using this software alone,
-   accusing this software, with or without changes, alone or as
-   part of a larger application.
+## Notices
 
-You are excused for unknowingly breaking rule 1 if you stop
-doing anything requiring this license within 30 days of
-learning you broke the rule.
+Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license and the contributor and source code lines above.
 
-**This software comes as is, without any warranty at all. As far
-as the law allows, the contributor will not be liable for any
-damages related to this software or this license, for any kind of
-legal claim.**
+## Commercial Trial
+
+Limit your use of this software for commercial purposes to a trial period of 32 calendar days.
+
+## Contribution
+
+You need not limit your use of this software for developing feedback, changes, or additions that you contribute back to the contributor.
+
+## Excuse
+
+You're excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
+
+## Defense
+
+Don't make any legal claim against anyone accusing this software, with or without changes, alone or with other technology, of infringing any patent.
+
+## Copyright
+
+The contributor licenses you to do everything with this software that would otherwise infringe their copyright in it.
+
+## Patent
+
+The contributor licenses you to do everything with this software that would otherwise infringe any patents they can license or become able to license.
+
+## Reliability
+
+The contributor can't revoke this license.
+
+## No Liability
+
+***As far as the law allows, this software comes as is, without any warranty or condition, and the contributor won't be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***
