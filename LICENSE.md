@@ -20,6 +20,14 @@ Make sure everyone who gets a copy of any part of this software from you, with o
 
 Limit your use of this software for commercial purposes to a trial period of 32 calendar days.
 
+## Personal Uses
+
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is use for a noncommercial purpose.
+
+## Noncommercial Organizations
+
+Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a noncommercial purpose regardless of the source of funding or obligations resulting from the funding.
+
 ## Contribution
 
 You need not limit your use of this software for developing feedback, changes, or additions that you contribute back to the contributor.
