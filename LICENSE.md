@@ -1,4 +1,4 @@
-The Prosperity Public License {{{version}}}
+The Prosperity Public License Development Draft
 
 Contributor: {{{name}}}
 
