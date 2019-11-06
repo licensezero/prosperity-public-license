@@ -22,11 +22,11 @@ Limit your use of this software for commercial purposes to a trial period of thi
 
 ## Personal Uses
 
-Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, does not count as use for a commercial purpose.
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, doesn't count as use for a commercial purpose.
 
 ## Noncommercial Organizations
 
-Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution does not count as use for a noncommercial purpose regardless of the source of funding or obligations resulting from the funding.
+Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution doesn't count as use for a noncommercial purpose regardless of the source of funding or obligations resulting from the funding.
 
 ## Contributions Back
 
