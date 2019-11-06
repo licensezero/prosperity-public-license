@@ -6,7 +6,7 @@ Source Code: $address
 
 ## Purpose
 
-This license allows you to use and share this software for noncommercial purposes for free, and to try this software for commercial purposes for 32 days.
+This license allows you to use and share this software for noncommercial purposes for free, and to try this software for commercial purposes for thirty days.
 
 ## Agreement
 
@@ -18,7 +18,7 @@ Make sure everyone who gets a copy of any part of this software from you, with o
 
 ## Commercial Trial
 
-Limit your use of this software for any commercial purpose to a trial period of 32 consecutive calendar days.
+Limit your use of this software for any commercial purpose to a trial period of thirty consecutive calendar days.
 
 ## Personal Uses
 
