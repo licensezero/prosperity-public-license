@@ -20,10 +20,6 @@ Make sure everyone who gets a copy of any part of this software from you, with o
 
 Limit your use of this software for commercial purposes to a trial period of thirty consecutive calendar days.
 
-## Contributions Back
-
-You don't have to limit your use of this software for developing feedback, changes, or additions that you contribute back to the contributor on the terms of a standardized public software license that allows everything this license does.
-
 ## Personal Uses
 
 Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, doesn't count as use for a commercial purpose.
