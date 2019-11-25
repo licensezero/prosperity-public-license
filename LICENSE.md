@@ -18,7 +18,7 @@ Make sure everyone who gets a copy of any part of this software from you, with o
 
 ## Commercial Trial
 
-Limit your use of this software for commercial purposes to a thirty-day trial period.
+Limit your use of this software for commercial purposes to a thirty-day trial period.  If you use this software for work, your company gets one trial period for all personnel, not one trial per person.
 
 ## Contributions Back
 
