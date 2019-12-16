@@ -32,10 +32,6 @@ Personal use for research, experiment, and testing for the benefit of public kno
 
 Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution doesn't count as use for a commercial purpose regardless of the source of funding or obligations resulting from the funding.
 
-## Excuse
-
-You're excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
-
 ## Defense
 
 Don't make any legal claim against anyone accusing this software, with or without changes, alone or with other technology, of infringing any patent.
@@ -51,6 +47,10 @@ The contributor licenses you to do everything with this software that would othe
 ## Reliability
 
 The contributor can't revoke this license.
+
+## Excuse
+
+You're excused for unknowingly breaking [Notices](#notices) if you take all practical steps to comply within thirty days of learning you broke the rule.
 
 ## No Liability
 
