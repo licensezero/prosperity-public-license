@@ -1,4 +1,4 @@
-# The Prosperity Public License Development Draft
+# The Prosperity Public License 3.0.0
 
 Contributor: $name
 
